@@ -36,6 +36,8 @@ Implications:
 The findings of this research can aid job platforms in developing automated systems to flag potentially fraudulent job postings, thereby protecting job seekers and enhancing the integrity of the job market.
 
 Code:
+
+
 **1. Library Imports**
 You began by importing essential libraries for data manipulation, visualization, and machine learning. Key libraries included:
 
